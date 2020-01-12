@@ -8,7 +8,7 @@ spec:
         name: javasampleappwar
     spec:
       containers:
-      - image: naresh240/naresh
+      - image: naresh240/javasampleappwar
         name: javasampleappwar
         ports:
         - name: javasampleappwar
